@@ -1,0 +1,12 @@
+name: AdminStick
+main: me.Arabianfellow.AdminStick.Main
+version: 1.0
+author: Arabianfellow
+description: Find out info on the server
+commands:
+  adminstick:
+    description: Gives you a stick that will display the server info
+  astick:
+    description: Alias for /AdminStick
+  admingui:
+    description: Displays more options for admin details
